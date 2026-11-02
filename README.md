@@ -263,13 +263,7 @@ The checks below were run with automated browser tests in Chromium on 2 November
 
 ---
 
-## 11. AI usage
-
-AI tools were used during Part 3. Details, the prompts used and the screenshots are in the AI disclosure annexe: [`AI_DISCLOSURE.md`](AI_DISCLOSURE.md). The AI tool is referenced as Anthropic (2026) in the reference list.
-
----
-
-## 12. References
+## 11 References
 
 Harvard style, adapted for the IIE. Listed alphabetically.
 
